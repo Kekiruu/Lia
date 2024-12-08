@@ -1,3 +1,16 @@
+
+
+/*
+Button for the modes
+1=upspeed 
+4=downspeed 
+3:Obstacle 
+2:IRremote 
+5:LineTracking 
+6:Manual
+*/
+
+
 #include <IRremote.h>
 #include <Servo.h>
 //Motor pins
